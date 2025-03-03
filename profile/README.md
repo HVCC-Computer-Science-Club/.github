@@ -17,8 +17,7 @@ We are a community of students passionate about computer science and technology.
 Here's how you can contribute and participate:
 
 1. Projects: Browse through our repositories and contribute to ongoing projects
-2. Meetings: Join us for workshops and collaborative coding sessions. Mee
-3. I
+2. Meetings: Join us for workshops and collaborative coding sessions. We have meetings everyweek wednesday 2-3pm
 
 
 ## Contributing Guidelines
