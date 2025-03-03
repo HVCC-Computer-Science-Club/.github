@@ -7,12 +7,13 @@ Welcome to the official GitHub repository for HVCC computer science club. We are
 We are a community of students passionate about computer science and technology. Through projects, workshops, and collaborative efforts, we aim to learn, build, and grow together 
 
 - **Who We are:** A club dedicated to exploring the world of computer science and technology and empowering students in tech
-- **Our Mission:** To empower students with knowledge, skils, and opportunities in computer science while fostering collaboration and a sense of community
+- **Our Mission:** To empower students with knowledge, skills, and opportunities in computer science while fostering collaboration and a sense of community
+<!--
 - **What We Do:**
     - Host workshops on topics like programming, web development, AI and much more
     - Work on team project to apply skills and create impactful solutions
     - Participate in tech events and competitions
-
+-->
 ## Get Involved 🤝
 Here's how you can contribute and participate:
 
